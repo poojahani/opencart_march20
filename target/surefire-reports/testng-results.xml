@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="3" passed="3" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2023-03-24T23:32:39 IST" name="Suite" finished-at="2023-03-24T23:33:27 IST" duration-ms="48880">
+    <groups>
+      <group name="Master">
+        <method signature="TC_004_Title.get_Title()[pri:0, instance:testCases.TC_004_Title@c8c12ac]" name="get_Title" class="testCases.TC_004_Title"/>
+        <method signature="Tc_006_Feature.feature()[pri:0, instance:testCases.Tc_006_Feature@6adbc9d]" name="feature" class="testCases.Tc_006_Feature"/>
+      </group> <!-- Master -->
+      <group name="Regression">
+        <method signature="TC_004_Title.get_Title()[pri:0, instance:testCases.TC_004_Title@c8c12ac]" name="get_Title" class="testCases.TC_004_Title"/>
+        <method signature="Tc_005_Blog.get_BlogTitle()[pri:0, instance:testCases.Tc_005_Blog@131774fe]" name="get_BlogTitle" class="testCases.Tc_005_Blog"/>
+      </group> <!-- Regression -->
+    </groups>
+    <test started-at="2023-03-24T23:32:39 IST" name="Test" finished-at="2023-03-24T23:33:27 IST" duration-ms="48880">
+      <class name="testCases.TC_004_Title">
+        <test-method is-config="true" signature="setUp()[pri:0, instance:testCases.TC_004_Title@c8c12ac]" started-at="2023-03-24T23:32:58 IST" name="setUp" finished-at="2023-03-24T23:33:06 IST" duration-ms="7535" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="get_Title()[pri:0, instance:testCases.TC_004_Title@c8c12ac]" started-at="2023-03-24T23:33:06 IST" name="get_Title" finished-at="2023-03-24T23:33:10 IST" duration-ms="4037" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- get_Title -->
+        <test-method is-config="true" signature="teardown()[pri:0, instance:testCases.TC_004_Title@c8c12ac]" started-at="2023-03-24T23:33:10 IST" name="teardown" finished-at="2023-03-24T23:33:10 IST" duration-ms="546" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+      </class> <!-- testCases.TC_004_Title -->
+      <class name="testCases.Tc_006_Feature">
+        <test-method is-config="true" signature="setUp()[pri:0, instance:testCases.Tc_006_Feature@6adbc9d]" started-at="2023-03-24T23:33:10 IST" name="setUp" finished-at="2023-03-24T23:33:18 IST" duration-ms="7649" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="feature()[pri:0, instance:testCases.Tc_006_Feature@6adbc9d]" started-at="2023-03-24T23:33:18 IST" name="feature" finished-at="2023-03-24T23:33:27 IST" duration-ms="8824" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- feature -->
+        <test-method is-config="true" signature="teardown()[pri:0, instance:testCases.Tc_006_Feature@6adbc9d]" started-at="2023-03-24T23:33:27 IST" name="teardown" finished-at="2023-03-24T23:33:27 IST" duration-ms="488" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+      </class> <!-- testCases.Tc_006_Feature -->
+      <class name="testCases.Tc_005_Blog">
+        <test-method is-config="true" signature="setUp()[pri:0, instance:testCases.Tc_005_Blog@131774fe]" started-at="2023-03-24T23:32:39 IST" name="setUp" finished-at="2023-03-24T23:32:49 IST" duration-ms="10355" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="get_BlogTitle()[pri:0, instance:testCases.Tc_005_Blog@131774fe]" started-at="2023-03-24T23:32:49 IST" name="get_BlogTitle" finished-at="2023-03-24T23:32:58 IST" duration-ms="8476" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- get_BlogTitle -->
+        <test-method is-config="true" signature="teardown()[pri:0, instance:testCases.Tc_005_Blog@131774fe]" started-at="2023-03-24T23:32:58 IST" name="teardown" finished-at="2023-03-24T23:32:58 IST" duration-ms="571" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+      </class> <!-- testCases.Tc_005_Blog -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>

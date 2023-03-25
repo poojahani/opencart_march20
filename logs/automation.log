@@ -1,0 +1,39 @@
+
+04:58:23.911 [main] INFO  testCases.Tc_001_AccountRegistration - *****Starting TC_001_AccountRegistration ***
+04:58:23.958 [main] INFO  testCases.Tc_001_AccountRegistration - get the home page data
+04:58:34.444 [main] INFO  testCases.Tc_001_AccountRegistration - click on the Register
+05:07:30.946 [main] INFO  testCases.Tc_001_AccountRegistration - *****Starting TC_001_AccountRegistration ***
+05:07:30.993 [main] INFO  testCases.Tc_001_AccountRegistration - get the home page data
+05:07:41.444 [main] INFO  testCases.Tc_001_AccountRegistration - click on the Register
+16:13:17.665 [main] INFO  testCases.Tc_001_AccountRegistration - *****Starting TC_001_AccountRegistration ***
+16:13:17.736 [main] INFO  testCases.Tc_001_AccountRegistration - get the home page data
+16:13:28.676 [main] INFO  testCases.Tc_001_AccountRegistration - click on the Register
+07:33:44.936 [main] INFO  testCases.Tc_002_loginTest - Starting TC_002_LoginTest
+07:37:56.628 [main] INFO  testCases.Tc_002_loginTest - Starting TC_002_LoginTest
+07:38:43.658 [main] INFO  testCases.Tc_002_loginTest - Starting TC_002_LoginTest
+07:51:45.351 [main] INFO  testCases.TC_004_Title - Starting TC_003_LoginTest
+07:52:59.853 [main] INFO  testCases.TC_004_Title - Starting TC_003_LoginTest
+10:40:28.287 [main] INFO  testCases.Tc_005_Blog - *****Starting TC_004_LoginTest*******
+11:50:16.901 [main] INFO  testCases.Tc_006_Feature - *****Starting TC_006_LoginTest*******
+11:52:03.736 [main] INFO  testCases.Tc_006_Feature - *****Starting TC_006_LoginTest*******
+13:11:42.543 [main] INFO  testCases.Tc_005_Blog - *****Starting TC_005_LoginTest*******
+13:12:02.427 [main] INFO  testCases.TC_004_Title - Starting TC_003_LoginTest
+13:12:15.260 [main] INFO  testCases.Tc_006_Feature - *****Starting TC_006_LoginTest*******
+22:14:02.043 [main] INFO  testCases.Tc_005_Blog - *****Starting TC_005_LoginTest*******
+22:14:20.342 [main] INFO  testCases.TC_004_Title - Starting TC_003_LoginTest
+22:14:31.911 [main] INFO  testCases.Tc_006_Feature - *****Starting TC_006_LoginTest*******
+22:16:23.011 [main] INFO  testCases.Tc_006_Feature - *****Starting TC_006_LoginTest*******
+22:18:27.564 [main] INFO  testCases.Tc_006_Feature - *****Starting TC_006_LoginTest*******
+23:14:32.599 [main] INFO  testCases.Tc_005_Blog - *****Starting TC_005_LoginTest*******
+23:14:49.507 [main] INFO  testCases.TC_004_Title - Starting TC_003_LoginTest
+23:15:01.170 [main] INFO  testCases.Tc_006_Feature - *****Starting TC_006_LoginTest*******
+23:16:15.334 [main] INFO  testCases.Tc_005_Blog - *****Starting TC_005_LoginTest*******
+23:16:32.340 [main] INFO  testCases.TC_004_Title - Starting TC_003_LoginTest
+23:23:52.533 [main] INFO  testCases.Tc_005_Blog - *****Starting TC_005_LoginTest*******
+23:24:09.876 [main] INFO  testCases.TC_004_Title - Starting TC_003_LoginTest
+23:25:32.976 [main] INFO  testCases.Tc_005_Blog - *****Starting TC_005_LoginTest*******
+23:25:48.784 [main] INFO  testCases.TC_004_Title - Starting TC_003_LoginTest
+23:26:00.219 [main] INFO  testCases.Tc_006_Feature - *****Starting TC_006_LoginTest*******
+23:32:49.762 [main] INFO  testCases.Tc_005_Blog - *****Starting TC_005_LoginTest*******
+23:33:06.380 [main] INFO  testCases.TC_004_Title - Starting TC_003_LoginTest
+23:33:18.612 [main] INFO  testCases.Tc_006_Feature - *****Starting TC_006_LoginTest*******
